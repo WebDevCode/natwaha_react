@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/logo.svg
 /.pnp
 .pnp.js
 
